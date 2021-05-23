@@ -1,0 +1,46 @@
+.main-content{
+    background-color: #121116;
+    }
+    
+    .container{
+    max-width: 1200px;
+    height: 420px;
+    margin: 0 auto;
+    background-image: url(images/12ColGRID.png);
+    background-repeat: no-repeat;
+    }
+    
+    .header{
+        padding-top: 115px;
+        padding-left: 530px;
+    }
+    
+    .social__text{
+        margin-left: 510px;
+        color: white;
+        font-size: 20px;
+        margin-bottom: 20px;
+    }
+    
+    hr{
+        margin-left: 470px;
+        margin-bottom: 15px;
+    }
+    
+    .social__links{
+        margin-left: 505px;
+    }
+    
+    .social__links-item{
+        margin-right: 33px;
+    }
+    
+    .footer{
+        padding-top: 90px;
+        margin-left: 470px;
+        color: white;
+    }
+    
+    .footer__brend{
+        color: #1da8d0;
+    }
